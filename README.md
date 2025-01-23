@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
-  - [Features](#features).
+  - [Features](#features)
   - [Target Variable](#target-variable)
 - [Installation](#installation)
 - [Usage](#usage)
