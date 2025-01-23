@@ -58,7 +58,7 @@ pip install -r requirements.txt
   - optuna
 
 ## Usage
--  Open the Pharma.ipynb notebook in Jupyter or vs code.
+-  Open the Manufacturing.ipynb notebook in Jupyter or vs code.
 
 -  Run each cell sequentially to load the data, preprocess it, train the model, and generate predictions.
 
